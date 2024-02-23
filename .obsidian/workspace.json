@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "c7fdd96dbbad1193",
+    "type": "split",
+    "children": [
+      {
+        "id": "64ee42585ac15682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6d9e4b02c46300d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Reference notes/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6466476d2e522c42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ABCDE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "902b166bd5104923",
+    "type": "split",
+    "children": [
+      {
+        "id": "b359fb8fec33c345",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edb7e91c91f0e010",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "402f0d2820339ed0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "779709065cbde8fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f751dc339b87c09",
+    "type": "split",
+    "children": [
+      {
+        "id": "9768da1ecee93d5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b3ebbd1436958b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100 Reference notes/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7f267bffadbe0f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "100 Reference notes/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false
+    }
+  },
+  "active": "b6d9e4b02c46300d",
+  "lastOpenFiles": [
+    "bs",
+    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698652825.jpeg",
+    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698644809.jpeg",
+    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698637201.jpeg",
+    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698621139.jpeg",
+    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698610464.jpeg",
+    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698593572.jpeg",
+    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698580239.jpeg",
+    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698567582.jpeg",
+    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698557263.jpeg",
+    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698542992.jpeg",
+    "200 FILES/201 Image/image",
+    "200 FILES/201 Image",
+    "ABCDE.md",
+    "100 Reference notes/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại.md",
+    "300 TEMPLATE/_template DISEASE.md",
+    "200 FILES",
+    "Welcome.md",
+    "100 Reference notes",
+    "300 TEMPLATE"
+  ]
+}
