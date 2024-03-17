@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "50517d874ede7661",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fafbed2bb3c7741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "601bccf02ac4306b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute urinary retention - UpToDate.pdf",
+                "page": 2,
+                "left": 0,
+                "top": 313,
+                "zoom": 0.49019607843137253
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f60f36ac62ed7bf6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "83ebc59c25cf2d67",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e713b5cddc2581a4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d9e25ae30a1c5be4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6ca38c7ca61289be",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7dd0e5c853964d76",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute urinary retention - UpToDate.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f9334770956c9381",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute urinary retention - UpToDate.pdf"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle \"select text to copy\" mode": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "601bccf02ac4306b",
+  "lastOpenFiles": [
+    "Adult signs and symptoms.md",
+    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute and emergent.md",
+    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute urinary retention - UpToDate.pdf"
+  ]
+}

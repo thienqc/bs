@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "64ee42585ac15682",
+        "id": "57c5af721fb72239",
         "type": "tabs",
         "children": [
           {
-            "id": "b6d9e4b02c46300d",
+            "id": "34ea6680597e6229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Reference notes/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6466476d2e522c42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ABCDE.md",
+                "file": "000 MOC/50 DRUGS EVERY EMERGENCY PHYSICIAN SHOULD KNOW.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 389.5,
+    "collapsed": true
   },
   "right": {
     "id": "7f751dc339b87c09",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Reference notes/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại.md",
+                "file": "000 MOC/50 DRUGS EVERY EMERGENCY PHYSICIAN SHOULD KNOW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,51 +98,90 @@
             }
           },
           {
-            "id": "f7f267bffadbe0f4",
+            "id": "b4065b1be4287ce8",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "all-properties",
               "state": {
-                "file": "100 Reference notes/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại.md"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "ddd2ab0599ffabd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "000 MOC/50 DRUGS EVERY EMERGENCY PHYSICIAN SHOULD KNOW.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 577.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "switcher:Open quick switcher": false
+      "switcher:Open quick switcher": false,
+      "pdf-plus:PDF++: Toggle \"select text to copy\" mode": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false
     }
   },
-  "active": "b6d9e4b02c46300d",
+  "active": "34ea6680597e6229",
   "lastOpenFiles": [
-    "bs",
-    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698652825.jpeg",
-    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698644809.jpeg",
-    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698637201.jpeg",
-    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698621139.jpeg",
-    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698610464.jpeg",
-    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698593572.jpeg",
-    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698580239.jpeg",
-    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698567582.jpeg",
-    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698557263.jpeg",
-    "200 FILES/201 Image/image/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698542992.jpeg",
-    "200 FILES/201 Image/image",
-    "200 FILES/201 Image",
-    "ABCDE.md",
-    "100 Reference notes/Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại.md",
-    "300 TEMPLATE/_template DISEASE.md",
-    "200 FILES",
-    "Welcome.md",
-    "100 Reference notes",
-    "300 TEMPLATE"
+    "100 Reference notes/Drug/Acetylcysteine.md",
+    "000 MOC/50 DRUGS EVERY EMERGENCY PHYSICIAN SHOULD KNOW.md",
+    "000 MOC",
+    "100 Reference notes/Drug/Mannitol.md",
+    "100 Reference notes/Drug/Labetolol.md",
+    "100 Reference notes/Drug/Lorazepam.md",
+    "100 Reference notes/Drug/Magnesium Sulfate.md",
+    "100 Reference notes/Drug/Methohexital.md",
+    "100 Reference notes/Drug/Methylprednisolone.md",
+    "100 Reference notes/Drug/Metoclopramide.md",
+    "100 Reference notes/Drug/Midazolam.md",
+    "100 Reference notes/Drug/Morphine sulfate.md",
+    "100 Reference notes/Drug/Nimodipine.md",
+    "100 Reference notes/Drug/Nitroglycerin.md",
+    "100 Reference notes/Drug/Nitroprusside.md",
+    "100 Reference notes/Drug/Norepinephrine.md",
+    "100 Reference notes/Drug/Octreotide.md",
+    "100 Reference notes/Drug/Olanzapine.md",
+    "100 Reference notes/Drug/Ondansetron.md",
+    "100 Reference notes/Drug/Phenobarbital.md",
+    "100 Reference notes/Drug/Prednisone.md",
+    "100 Reference notes/Drug/Propofol.md",
+    "100 Reference notes/Drug/Protamine sulfate.md",
+    "100 Reference notes/Drug/Rocuronium.md",
+    "100 Reference notes/Drug/Sodium Bicarbonate.md",
+    "100 Reference notes/Drug/Succinylcholine.md",
+    "100 Reference notes/Drug",
+    "200 FILES/201 Image/image/BLUE protocol.jpeg",
+    "200 FILES/201 Image/image/Siêu âm PHỔI-1710429239813.jpeg",
+    "200 FILES/201 Image/image/Siêu âm PHỔI-1710428812761.jpeg",
+    "200 FILES/201 Image/image/Siêu âm PHỔI-1710428715463.jpeg",
+    "200 FILES/201 Image/image/Siêu âm PHỔI-1710428621946.jpeg",
+    "200 FILES/201 Image/image/Siêu âm PHỔI-1710428608422.jpeg",
+    "200 FILES/201 Image/image/Siêu âm PHỔI-1710428518270.jpeg",
+    "200 FILES/202 PDF/aha_cpr_bls_exercise_handout_11_22.pdf",
+    "200 FILES/202 PDF/aha_cpr_bls_exercise_handout_11_22.pdf.crdownload",
+    "200 FILES/201 Image/image/CẤP CỨU NGƯNG HÔ HẤP TUẦN HOÀN CƠ BẢN - BLS-1710344587436.jpeg",
+    "200 FILES/201 Image/image/CẤP CỨU NGƯNG HÔ HẤP TUẦN HOÀN CƠ BẢN - BLS-1710344547109.jpeg",
+    "200 FILES/201 Image/image/CẤP CỨU NGƯNG HÔ HẤP TUẦN HOÀN CƠ BẢN - BLS-1710344536047.jpeg",
+    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute urinary retention - UpToDate.pdf",
+    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Evaluation of the adult with nontraumatic abdominal or flank pain in the emergency department - UpToDate.pdf",
+    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Evaluation of the adult with chest pain in the emergency department - UpToDate.pdf",
+    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Evaluation of abnormal behavior in the emergency department - UpToDate.pdf",
+    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Assessment and emergency management of the acutely agitated or violent adult - UpToDate.pdf",
+    "200 FILES/202 PDF/Adult medical emergencies/Cerebrovascular disease/Early antithrombotic treatment of acute ischemic stroke and transient ischemic attack - UpToDate.pdf"
   ]
 }
