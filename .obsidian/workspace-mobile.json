@@ -4,20 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5fafbed2bb3c7741",
+        "id": "edc6d8343fe65d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "601bccf02ac4306b",
+            "id": "6390494bc23eecaf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute urinary retention - UpToDate.pdf",
-                "page": 2,
-                "left": 0,
-                "top": 313,
-                "zoom": 0.49019607843137253
+                "file": "100 Reference notes/Drug/Octreotide.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Buscosan",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -62,9 +60,21 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "83c7ad06beb01de1",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "6ca38c7ca61289be",
@@ -76,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute urinary retention - UpToDate.pdf",
+            "file": "100 Reference notes/Drug/Octreotide.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +103,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute urinary retention - UpToDate.pdf"
+            "file": "100 Reference notes/Drug/Octreotide.md"
           }
         }
       }
@@ -110,10 +120,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "601bccf02ac4306b",
+  "active": "e713b5cddc2581a4",
   "lastOpenFiles": [
+    "100 Reference notes/Drug/Esmolol.md",
+    "200 FILES/202 PDF/Adult medical emergencies/Bacterial infections/Acute sinusitis and rhinosinusitis in adults_ Clinical manifestations and diagnosis - UpToDate.pdf",
+    "200 FILES/202 PDF/Adult medical emergencies/Asthma/Acute exacerbations of asthma in adults_ Emergency department and inpatient management - UpToDate.pdf",
+    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute urinary retention - UpToDate.pdf",
     "Adult signs and symptoms.md",
-    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute and emergent.md",
-    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute urinary retention - UpToDate.pdf"
+    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute and emergent.md"
   ]
 }

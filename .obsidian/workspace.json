@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "57c5af721fb72239",
+        "id": "6a9c6bb4a9e2531d",
         "type": "tabs",
         "children": [
           {
-            "id": "34ea6680597e6229",
+            "id": "c198a9de2266b90c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 MOC/50 DRUGS EVERY EMERGENCY PHYSICIAN SHOULD KNOW.md",
+                "file": "buồn nôn - nôn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94be517f9c776bef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tiếp cận chẩn đoán bệnh nhân đột quỵ não cấp - Youtube.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
+    "width": 626.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 MOC/50 DRUGS EVERY EMERGENCY PHYSICIAN SHOULD KNOW.md",
+                "file": "Tiếp cận chẩn đoán bệnh nhân đột quỵ não cấp - Youtube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "000 MOC/50 DRUGS EVERY EMERGENCY PHYSICIAN SHOULD KNOW.md"
+                "file": "Tiếp cận chẩn đoán bệnh nhân đột quỵ não cấp - Youtube.md"
+              }
+            }
+          },
+          {
+            "id": "e4629eb12a8ea8ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tiếp cận chẩn đoán bệnh nhân đột quỵ não cấp - Youtube.md"
               }
             }
           }
@@ -124,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 577.5
+    "width": 577.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,17 +160,44 @@
       "pdf-plus:PDF++: Toggle auto-focus": false
     }
   },
-  "active": "34ea6680597e6229",
+  "active": "94be517f9c776bef",
   "lastOpenFiles": [
-    "100 Reference notes/Drug/Acetylcysteine.md",
+    "buồn nôn - nôn.md",
+    "Tiếp cận chẩn đoán bệnh nhân đột quỵ não cấp - Youtube.md",
+    "000 MOC/Năng lực chuyên môn CẤP CỨU.md",
+    "đau ngực.md",
+    "đau bụng cấp.md",
+    "Khâu vết thương.md",
     "000 MOC/50 DRUGS EVERY EMERGENCY PHYSICIAN SHOULD KNOW.md",
+    "200 FILES/202 PDF/Khau vet thuong/Skin laceration repair with sutures - UpToDate.pdf",
+    "200 FILES/202 PDF/Ha duong huyet/Hypoglycemia in adults without diabetes mellitus_ Clinical manifestations, causes, and diagnosis - UpToDate.pdf",
+    "200 FILES/202 PDF/Ha duong huyet",
+    "200 FILES/202 PDF/New folder",
+    "200 FILES/201 Image/image/Khâu vết thương-1710947418680.jpeg",
+    "200 FILES/201 Image/image/Khâu vết thương-1710947411994.jpeg",
+    "200 FILES/201 Image/image/Khâu vết thương-1710947271672.jpeg",
+    "200 FILES/201 Image/image/Khâu vết thương-1710947225637.jpeg",
+    "200 FILES/201 Image/image/Khâu vết thương-1710947200951.jpeg",
+    "200 FILES/202 PDF/Khau vet thuong/Basic principles of wound management - UpToDate.pdf",
+    "200 FILES/202 PDF/Khau vet thuong/Minor wound evaluation and preparation for closure - UpToDate.pdf",
+    "200 FILES/202 PDF/Khau vet thuong",
+    "100 Reference notes/Drug/Methylprednisolone.md",
+    "Combivent.md",
+    "Cơn hen cấp.md",
+    "Truyền dịch.md",
+    "200 FILES/201 Image/image/Truyền dịch-1710781939441.jpeg",
+    "200 FILES/201 Image/image/Cơn hen cấp-1710775065692.jpeg",
+    "200 FILES/201 Image/image/Cơn hen cấp (cấp cứu).jpeg",
+    "200 FILES/201 Image/image/Cơn hen cấp (chăm sóc ban đầu).jpeg",
+    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Approach to the patient with dizziness - UpToDate.pdf",
+    "100 Reference notes/Adult signs and symptoms/Approach to the patient with dizziness - UpToDate.md",
+    "100 Reference notes/Drug/Acetylcysteine.md",
     "000 MOC",
     "100 Reference notes/Drug/Mannitol.md",
     "100 Reference notes/Drug/Labetolol.md",
     "100 Reference notes/Drug/Lorazepam.md",
     "100 Reference notes/Drug/Magnesium Sulfate.md",
     "100 Reference notes/Drug/Methohexital.md",
-    "100 Reference notes/Drug/Methylprednisolone.md",
     "100 Reference notes/Drug/Metoclopramide.md",
     "100 Reference notes/Drug/Midazolam.md",
     "100 Reference notes/Drug/Morphine sulfate.md",
@@ -155,33 +206,7 @@
     "100 Reference notes/Drug/Nitroprusside.md",
     "100 Reference notes/Drug/Norepinephrine.md",
     "100 Reference notes/Drug/Octreotide.md",
-    "100 Reference notes/Drug/Olanzapine.md",
-    "100 Reference notes/Drug/Ondansetron.md",
-    "100 Reference notes/Drug/Phenobarbital.md",
-    "100 Reference notes/Drug/Prednisone.md",
-    "100 Reference notes/Drug/Propofol.md",
-    "100 Reference notes/Drug/Protamine sulfate.md",
-    "100 Reference notes/Drug/Rocuronium.md",
-    "100 Reference notes/Drug/Sodium Bicarbonate.md",
-    "100 Reference notes/Drug/Succinylcholine.md",
     "100 Reference notes/Drug",
-    "200 FILES/201 Image/image/BLUE protocol.jpeg",
-    "200 FILES/201 Image/image/Siêu âm PHỔI-1710429239813.jpeg",
-    "200 FILES/201 Image/image/Siêu âm PHỔI-1710428812761.jpeg",
-    "200 FILES/201 Image/image/Siêu âm PHỔI-1710428715463.jpeg",
-    "200 FILES/201 Image/image/Siêu âm PHỔI-1710428621946.jpeg",
-    "200 FILES/201 Image/image/Siêu âm PHỔI-1710428608422.jpeg",
-    "200 FILES/201 Image/image/Siêu âm PHỔI-1710428518270.jpeg",
-    "200 FILES/202 PDF/aha_cpr_bls_exercise_handout_11_22.pdf",
-    "200 FILES/202 PDF/aha_cpr_bls_exercise_handout_11_22.pdf.crdownload",
-    "200 FILES/201 Image/image/CẤP CỨU NGƯNG HÔ HẤP TUẦN HOÀN CƠ BẢN - BLS-1710344587436.jpeg",
-    "200 FILES/201 Image/image/CẤP CỨU NGƯNG HÔ HẤP TUẦN HOÀN CƠ BẢN - BLS-1710344547109.jpeg",
-    "200 FILES/201 Image/image/CẤP CỨU NGƯNG HÔ HẤP TUẦN HOÀN CƠ BẢN - BLS-1710344536047.jpeg",
-    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute urinary retention - UpToDate.pdf",
-    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Evaluation of the adult with nontraumatic abdominal or flank pain in the emergency department - UpToDate.pdf",
-    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Evaluation of the adult with chest pain in the emergency department - UpToDate.pdf",
-    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Evaluation of abnormal behavior in the emergency department - UpToDate.pdf",
-    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Assessment and emergency management of the acutely agitated or violent adult - UpToDate.pdf",
-    "200 FILES/202 PDF/Adult medical emergencies/Cerebrovascular disease/Early antithrombotic treatment of acute ischemic stroke and transient ischemic attack - UpToDate.pdf"
+    "200 FILES/201 Image/image/BLUE protocol.jpeg"
   ]
 }
