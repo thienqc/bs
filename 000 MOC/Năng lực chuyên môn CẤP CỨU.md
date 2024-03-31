@@ -3,7 +3,7 @@
 - Chọc dò ổ bụng bằng kim
 - Chọc dò khoang màng phổi bằng kim
 - Chọc dò tủy sống
-- Đặt nội khí quản
+- [[Đặt nội khí quản]]
 - Đặt nội khí quản với Bougie
 - Đặt Catheter động mạch
 - Đặt đường truyền tủy xương
@@ -42,5 +42,10 @@
 - Tiếp cận và xử trí các trường hợp [[đa chấn thương]]
 - Tiếp cận và xử trí các [[biến chứng của Đái tháo đường]]
 
+[[Ho ra máu]]
+
+[[Viêm tuỵ cấp]]
 
 [[buồn nôn - nôn]]
+
+[[Khó thở cấp]]

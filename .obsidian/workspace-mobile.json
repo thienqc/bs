@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Reference notes/Drug/Octreotide.md",
+                "file": "Lidoncain.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Buscosan",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -74,7 +74,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "6ca38c7ca61289be",
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "100 Reference notes/Drug/Octreotide.md",
+            "file": "Lidoncain.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "100 Reference notes/Drug/Octreotide.md"
+            "file": "Lidoncain.md"
           }
         }
       }
@@ -120,8 +120,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e713b5cddc2581a4",
+  "active": "6390494bc23eecaf",
   "lastOpenFiles": [
+    "đau đầu.md",
+    "đau ngực.md",
+    "đau bụng cấp.md",
+    "Viêm tuỵ cấp.md",
+    "000 MOC/Năng lực chuyên môn CẤP CỨU.md",
+    "Ho ra máu.md",
+    "Cơn hen cấp.md",
+    "200 FILES/202 PDF/Khau vet thuong/Skin laceration repair with sutures - UpToDate.pdf",
+    "100 Reference notes/Drug/Octreotide.md",
     "100 Reference notes/Drug/Esmolol.md",
     "200 FILES/202 PDF/Adult medical emergencies/Bacterial infections/Acute sinusitis and rhinosinusitis in adults_ Clinical manifestations and diagnosis - UpToDate.pdf",
     "200 FILES/202 PDF/Adult medical emergencies/Asthma/Acute exacerbations of asthma in adults_ Emergency department and inpatient management - UpToDate.pdf",

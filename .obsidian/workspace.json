@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6a9c6bb4a9e2531d",
+        "id": "d274ea2ce9436b24",
         "type": "tabs",
         "children": [
           {
-            "id": "c198a9de2266b90c",
+            "id": "9486474a14eb8812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "buồn nôn - nôn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94be517f9c776bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiếp cận chẩn đoán bệnh nhân đột quỵ não cấp - Youtube.md",
+                "file": "Thuốc Giảm đau.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tiếp cận chẩn đoán bệnh nhân đột quỵ não cấp - Youtube.md",
+                "file": "Thuốc Giảm đau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tiếp cận chẩn đoán bệnh nhân đột quỵ não cấp - Youtube.md"
+                "file": "Thuốc Giảm đau.md"
               }
             }
           },
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tiếp cận chẩn đoán bệnh nhân đột quỵ não cấp - Youtube.md"
+                "file": "Thuốc Giảm đau.md"
               }
             }
           }
@@ -160,53 +148,54 @@
       "pdf-plus:PDF++: Toggle auto-focus": false
     }
   },
-  "active": "94be517f9c776bef",
+  "active": "9486474a14eb8812",
   "lastOpenFiles": [
+    "200 FILES/201 Image/image/Thuốc Giảm đau-1711642317718.jpeg",
+    "200 FILES/201 Image/image/Thuốc Giảm đau-1711642295250.jpeg",
+    "200 FILES/201 Image/image/Thuốc Giảm đau-1711642268655.jpeg",
+    "200 FILES/201 Image/image/Thuốc Giảm đau-1711642256836.jpeg",
+    "200 FILES/201 Image/image/Thuốc Giảm đau-1711642229382.jpeg",
+    "200 FILES/201 Image/image/Thuốc Giảm đau-1711642172147.jpeg",
+    "200 FILES/201 Image/image/Thuốc Giảm đau-1711640942573.jpeg",
+    "200 FILES/201 Image/image/Thuốc Giảm đau-1711639844703.jpeg",
+    "Một số thuốc dùng trong cấp cứu.md",
+    "Thuốc Giảm đau.md",
+    "000 MOC/50 DRUGS EVERY EMERGENCY PHYSICIAN SHOULD KNOW.md",
+    "đau đầu.md",
+    "200 FILES/201 Image/image/đau đầu-1711554930846.jpeg",
+    "200 FILES/201 Image/image/đau đầu-1711554917869.jpeg",
+    "200 FILES/201 Image/image/đau đầu-1711554905921.jpeg",
+    "000 MOC/Năng lực chuyên môn CẤP CỨU.md",
+    "Ho ra máu.md",
+    "200 FILES/202 PDF/Adult medical emergencies/Pancreatic disease/Hypertriglyceridemia-induced acute pancreatitis - UpToDate.pdf",
+    "200 FILES/202 PDF/Adult medical emergencies/Pancreatic disease/Management of acute pancreatitis - UpToDate.pdf",
+    "200 FILES/202 PDF/Adult medical emergencies/Pancreatic disease",
+    "200 FILES/202 PDF/Adult medical emergencies/New folder",
+    "200 FILES/202 PDF/Adult medical emergencies/Vertigo/Treatment of vertigo - UpToDate.pdf",
+    "200 FILES/202 PDF/Adult medical emergencies/Vertigo",
+    "200 FILES/202 PDF/Adult medical emergencies/General oncologic issues/Treatment and prognosis of neoplastic epidural spinal cord compression - UpToDate.pdf",
+    "200 FILES/202 PDF/Adult medical emergencies/General oncologic issues/Malignancy-related superior vena cava syndrome - UpToDate.pdf",
+    "200 FILES/202 PDF/Adult medical emergencies/General oncologic issues/Cancer pain management_ Use of acetaminophen and nonsteroidal anti-inflammatory drugs - UpToDate.pdf",
+    "200 FILES/202 PDF/Adult medical emergencies/General oncologic issues/Cancer pain management_ Role of adjuvant analgesics (coanalgesics) - UpToDate.pdf",
+    "Viêm tuỵ cấp.md",
+    "Khó thở cấp.md",
+    "Khó thở cấp.canvas",
+    "Tràn khí màng phổi.md",
+    "đau bụng cấp.md",
+    "Đặt nội khí quản.md",
     "buồn nôn - nôn.md",
     "Tiếp cận chẩn đoán bệnh nhân đột quỵ não cấp - Youtube.md",
-    "000 MOC/Năng lực chuyên môn CẤP CỨU.md",
     "đau ngực.md",
-    "đau bụng cấp.md",
     "Khâu vết thương.md",
-    "000 MOC/50 DRUGS EVERY EMERGENCY PHYSICIAN SHOULD KNOW.md",
-    "200 FILES/202 PDF/Khau vet thuong/Skin laceration repair with sutures - UpToDate.pdf",
-    "200 FILES/202 PDF/Ha duong huyet/Hypoglycemia in adults without diabetes mellitus_ Clinical manifestations, causes, and diagnosis - UpToDate.pdf",
-    "200 FILES/202 PDF/Ha duong huyet",
-    "200 FILES/202 PDF/New folder",
-    "200 FILES/201 Image/image/Khâu vết thương-1710947418680.jpeg",
-    "200 FILES/201 Image/image/Khâu vết thương-1710947411994.jpeg",
-    "200 FILES/201 Image/image/Khâu vết thương-1710947271672.jpeg",
-    "200 FILES/201 Image/image/Khâu vết thương-1710947225637.jpeg",
-    "200 FILES/201 Image/image/Khâu vết thương-1710947200951.jpeg",
-    "200 FILES/202 PDF/Khau vet thuong/Basic principles of wound management - UpToDate.pdf",
-    "200 FILES/202 PDF/Khau vet thuong/Minor wound evaluation and preparation for closure - UpToDate.pdf",
-    "200 FILES/202 PDF/Khau vet thuong",
     "100 Reference notes/Drug/Methylprednisolone.md",
     "Combivent.md",
     "Cơn hen cấp.md",
     "Truyền dịch.md",
-    "200 FILES/201 Image/image/Truyền dịch-1710781939441.jpeg",
-    "200 FILES/201 Image/image/Cơn hen cấp-1710775065692.jpeg",
-    "200 FILES/201 Image/image/Cơn hen cấp (cấp cứu).jpeg",
-    "200 FILES/201 Image/image/Cơn hen cấp (chăm sóc ban đầu).jpeg",
-    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Approach to the patient with dizziness - UpToDate.pdf",
     "100 Reference notes/Adult signs and symptoms/Approach to the patient with dizziness - UpToDate.md",
     "100 Reference notes/Drug/Acetylcysteine.md",
-    "000 MOC",
     "100 Reference notes/Drug/Mannitol.md",
     "100 Reference notes/Drug/Labetolol.md",
     "100 Reference notes/Drug/Lorazepam.md",
-    "100 Reference notes/Drug/Magnesium Sulfate.md",
-    "100 Reference notes/Drug/Methohexital.md",
-    "100 Reference notes/Drug/Metoclopramide.md",
-    "100 Reference notes/Drug/Midazolam.md",
-    "100 Reference notes/Drug/Morphine sulfate.md",
-    "100 Reference notes/Drug/Nimodipine.md",
-    "100 Reference notes/Drug/Nitroglycerin.md",
-    "100 Reference notes/Drug/Nitroprusside.md",
-    "100 Reference notes/Drug/Norepinephrine.md",
-    "100 Reference notes/Drug/Octreotide.md",
-    "100 Reference notes/Drug",
-    "200 FILES/201 Image/image/BLUE protocol.jpeg"
+    "100 Reference notes/Drug/Magnesium Sulfate.md"
   ]
 }
