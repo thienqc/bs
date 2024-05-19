@@ -1,0 +1,4 @@
+---
+aliases:
+  - Chấn thương
+---

@@ -5,5 +5,6 @@
   "attachmentFolderPath": "200 FILES/201 Image",
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "mobileQuickRibbonItem": "omnisearch:Omnisearch"
 }

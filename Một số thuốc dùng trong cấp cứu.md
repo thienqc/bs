@@ -1,7 +1,6 @@
 ## Chống nôn
-- Elitan
 - [[Droperidol]]
-- [[Metoclopramide]]
+- [[Metoclopramide]] (Elitan)
 - [[Ondansetron]]
 
 ## [[Thuốc Giảm đau]]

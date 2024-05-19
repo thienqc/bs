@@ -10,3 +10,5 @@ POCUS 101 = Point of Care Ultrasound
 [[Cardiac Ultrasound]]
 
 [[Abdominal Ultrasound]]
+
+[Emergency Medicine Courses – We provide free open online courses for medical students (iem-course.org)](https://iem-course.org/)

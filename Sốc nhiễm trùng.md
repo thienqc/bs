@@ -1,0 +1,10 @@
+# SỐC NHIỄM TRÙNG
+![[Sốc nhiễm trùng-1712069455810.jpeg]]
+![[Sốc nhiễm trùng-1712069750020.jpeg]]
+![[Sốc nhiễm trùng-1712069772652.jpeg]]
+![[Sốc nhiễm trùng-1712069813854.jpeg]]
+![[Sốc nhiễm trùng-1712069859687.jpeg]]
+![[Sốc nhiễm trùng-1712069912766.jpeg]]
+![[Sốc nhiễm trùng-1712069933781.jpeg]]
+![[Sốc nhiễm trùng-1712069967419.jpeg]]
+![[Sốc nhiễm trùng-1712071322127.jpeg]]

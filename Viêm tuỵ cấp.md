@@ -64,7 +64,7 @@ Khi có >= 1 yếu tố sau đây
 	- Hạ calci máu
 	- Mg máu thấp => hạ calci máu
 - Tăng đường huyết
-- Chụp CT scan bụng có cản quan khi có
+- Chụp CT scan bụng có cản quang khi có
 	- bằng chứng nhiễm trùng mới
 	- nhiễm trùng chưa giải quyết
 	- không rõ ổ nhiễm trùng

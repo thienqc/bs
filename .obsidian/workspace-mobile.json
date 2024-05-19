@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "edc6d8343fe65d5e",
+        "id": "81abddb47f7d4498",
         "type": "tabs",
         "children": [
           {
-            "id": "6390494bc23eecaf",
+            "id": "9c148e73ac0e41d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lidoncain.md",
-                "mode": "source",
+                "file": "THUỐC Ở CẤP CỨU.md",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -86,7 +87,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lidoncain.md",
+            "file": "THUỐC Ở CẤP CỨU.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lidoncain.md"
+            "file": "THUỐC Ở CẤP CỨU.md"
           }
         }
       }
@@ -112,6 +113,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -120,22 +122,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6390494bc23eecaf",
+  "active": "9c148e73ac0e41d2",
   "lastOpenFiles": [
-    "đau đầu.md",
-    "đau ngực.md",
-    "đau bụng cấp.md",
+    "đau quặn thận.md",
+    "The TRIO/000 Zettlekasten/UMP/BM NỘI TIẾT/BỆNH TUYẾN GIÁP.md",
+    "The TRIO/000 Zettlekasten/UMP/BM Than kinh/YẾU LIỆT – RỐI LOẠN CẢM GIÁC.md",
+    "hạ kali máu.md",
+    "Five- Step Acid- Base Approach to the BMP.md",
+    "Đọc Khí máu động mạch.md",
+    "The TRIO/Hội chứng vành cấp.md",
+    "The TRIO/ECG.md",
     "Viêm tuỵ cấp.md",
-    "000 MOC/Năng lực chuyên môn CẤP CỨU.md",
-    "Ho ra máu.md",
+    "The TRIO/000 Zettlekasten/UMP/BM CTCH/GÃY XƯƠNG DO CHẤN THƯƠNG.md",
+    "The TRIO/HC chèn ép khoang.md",
+    "Tiếp cận RL toan-kiềm dựa vào BE.md",
+    "Copenhagen approach.md",
+    "Khí máu động mạch.md",
+    "Khó thở cấp.canvas",
+    "Acute mesenteric ischaemia.md",
+    "đau bụng cấp.md",
+    "The TRIO/000 Zettlekasten/UMP/BM NHI/BM NHI - Tot nghiep/He mau/VẤN ĐỀ ĐÔNG CẦM MÁU.md",
+    "The TRIO/000 Zettlekasten/UMP/BM Huyet hoc/RL đông máu huyết tương.md",
+    "THUỐC Ở CẤP CỨU.md",
+    "Xuất huyết tiêu hoá.md",
+    "The TRIO/000 Zettlekasten/UMP/BM CẤP CỨU/SỐC PHẢN VỆ.md",
+    "Phản vệ.md",
+    "The TRIO/000 Zettlekasten/UMP/BM NỘI/THẬN/RỐI LOẠN ĐIỆN GIẢI.md",
+    "buồn nôn - nôn.md",
+    "The TRIO/000 Zettlekasten/UMP/BM NỘI/TIÊU HOÁ/XHTH – do tăng áp cửa và không tăng áp cửa.md",
     "Cơn hen cấp.md",
     "200 FILES/202 PDF/Khau vet thuong/Skin laceration repair with sutures - UpToDate.pdf",
-    "100 Reference notes/Drug/Octreotide.md",
-    "100 Reference notes/Drug/Esmolol.md",
+    "200 FILES/202 PDF/Khau vet thuong/Basic principles of wound management - UpToDate.pdf",
+    "200 FILES/202 PDF/Khau vet thuong/Minor wound evaluation and preparation for closure - UpToDate.pdf",
     "200 FILES/202 PDF/Adult medical emergencies/Bacterial infections/Acute sinusitis and rhinosinusitis in adults_ Clinical manifestations and diagnosis - UpToDate.pdf",
     "200 FILES/202 PDF/Adult medical emergencies/Asthma/Acute exacerbations of asthma in adults_ Emergency department and inpatient management - UpToDate.pdf",
-    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute urinary retention - UpToDate.pdf",
-    "Adult signs and symptoms.md",
-    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute and emergent.md"
+    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Acute urinary retention - UpToDate.pdf"
   ]
 }

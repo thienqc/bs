@@ -1,4 +1,17 @@
 # Thuốc giảm đau
+
+https://www.youtube.com/live/Uyi02IHDPIQ?si=_tyZT1UGJrXeGIVf
+
+
+![[Thuốc Giảm đau-1712073391744.jpeg]]
+![[Thuốc Giảm đau-1712073760346.jpeg]]
+![[Thuốc Giảm đau-1712073780755.jpeg]]
+![[NSAIDS-Thuốc Giảm đau-1712073812670.jpeg]]
+![[Thuốc Giảm đau-1712073836653.jpeg]]
+![[Thuốc Giảm đau-1712073865502.jpeg]]
+![[Thuốc Giảm đau-1712073903159.jpeg]]
+![[Thuốc Giảm đau-1712073910042.jpeg]]
+
 ## Uptodate
 [Approach to the management of acute pain in adults - UpToDate](https://www.uptodate.com/contents/approach-to-the-management-of-acute-pain-in-adults)
 Nonopioid analgesics commonly used for perioperative pain in adults

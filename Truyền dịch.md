@@ -1,5 +1,14 @@
-
+---
+aliases:
+  - Tốc độ truyền dịch
+---
 ## Tốc độ truyền dịch
+
+$v=(V*20)/t$
+- $v$ (giọt/phút): tốc độ truyền
+- $V$ (ml): thể tích dịch truyền
+- 20: số giọt của 1ml
+- $t$ (phút): thời gian truyền
 
 |         | (XL) 40G/p<br>120ml/h | (LX) 60G/p<br>180ml/h | (LXXX) 80G/p<br>240ml/h | (C) 100G/p<br>300ml/h |
 | ------- | --------------------- | --------------------- | ----------------------- | --------------------- |
