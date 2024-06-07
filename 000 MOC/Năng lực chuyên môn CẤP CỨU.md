@@ -1,7 +1,7 @@
 ## Xử lý tình huống nội khoa và thủ thuật
-- ✅ Lấy [[khí máu động mạch]]
+- ✅ Lấy [[Khí máu động mạch]]
 - Chọc dò ổ bụng bằng kim
-- Chọc dò khoang màng phổi bằng kim
+- [[Chọc dò khoang màng phổi bằng kim]]
 - Chọc dò tủy sống
 - [[Đặt nội khí quản]]
 - Đặt nội khí quản với Bougie
@@ -29,14 +29,14 @@
 ## Quy trình chuyên môn
 - Thực hiện hạ thân nhiệt ở bệnh nhân sau ngưng tim
 - Tiếp cận và xử trí các [[rối loạn nhịp tim cấp cứu]]
-- Tiếp cận và xử trí các nguyên nhân [[đau ngực]]
+- Tiếp cận và xử trí các nguyên nhân [[Tiếp cận ĐAU NGỰC ở cấp cứu]]
 - ✅ Tiếp cận và xử trí các nguyên nhân [[đau bụng cấp]]
-- Tiếp cận và xử trí các nguyên nhân [[đau đầu]]
+- Tiếp cận và xử trí các nguyên nhân [[100 Reference notes/đau đầu]]
 - Tiếp cận xà xử trí các nguyên nhân [[rối loạn ý thức]]
 - Tiếp cận và xử trí các nguyên nhân [[suy hô hấp]]
-- Tiếp cận và xử trí các nguyên nhân [[TĂNG HUYẾT ÁP - BM NỘI]]
+- Tiếp cận và xử trí các nguyên nhân [[MOC TĂNG HUYẾT ÁP]]
 - Tiếp cận và xử trí các nguyên nhân [[hạ huyết áp]]
-- Tiếp cận và xử trí các loại [[rối loạn điện giải – kiềm toan]]
+- Tiếp cận và xử trí các loại [[MOC rối loạn điện giải – kiềm toan]]
 - Tiếp cận và xử trí các nguyên nhân [[ngộ độc cấp]]
 - Chọn lựa [[kháng sinh]] thích hợp theo nguồn nhiễm trùng
 - Tiếp cận và xử trí các trường hợp [[đa chấn thương]]
@@ -48,7 +48,7 @@
 
 [[buồn nôn - nôn]]
 
-[[Khó thở cấp]]
+[[100 Reference notes/Khó thở cấp]]
 
 [[Xuất huyết tiêu hoá]]
 
@@ -56,6 +56,6 @@
 
 [[Sốt]]
 
-[[Suy thượng thận cấp]]
+[[MOC Suy thượng thận cấp]]
 
 [[hạ kali máu]]

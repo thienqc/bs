@@ -101,7 +101,7 @@ Chẩn đoán sỏi đường mật chính dựa vào hình ảnh học
 **3. Biến chứng** (6)
 - Viêm đường mật cấp
 - Áp xe gan đường mật
-- [[Viêm tuỵ cấp]]
+- [[Viêm tuỵ cấp]]
 - Viêm hẹp đường mật
 - Xơ gan do sỏi mật
 - Ung thư đường mật

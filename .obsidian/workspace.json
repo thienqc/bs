@@ -4,71 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "30350874d061df64",
+        "id": "2424da4e58a443cb",
         "type": "tabs",
         "children": [
           {
-            "id": "7db7e6f8271e562f",
+            "id": "38ecf5c610520109",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ĐÀO TẠO BS MỚI.md",
+                "file": "Daily/240606.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3d5ddc8d55b08318",
+            "id": "08d0cf1c430ad41a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The TRIO/000 Zettlekasten/UMP/BM CẤP CỨU/SỐC PHẢN VỆ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de72b5f90aed31c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phản vệ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcec7026b2e5a3ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shock index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48311d53f8d9ff86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 Reference notes/Drug/Methylprednisolone.md",
+                "file": "Toa về.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,11 +78,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 837.5,
+    "width": 413.5,
     "collapsed": true
   },
   "right": {
@@ -135,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shock index.md",
+                "file": "Toa về.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,12 +124,12 @@
             }
           },
           {
-            "id": "ddd2ab0599ffabd7",
+            "id": "a0d152bb0c1eb793",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Shock index.md"
+                "file": "Toa về.md"
               }
             }
           },
@@ -174,12 +139,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shock index.md"
+                "file": "Toa về.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,60 +156,63 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "switcher:Open quick switcher": true,
-      "pdf-plus:PDF++: Toggle \"select text to copy\" mode": true,
-      "pdf-plus:PDF++: Toggle auto-focus": true,
       "daily-notes:Open today's daily note": false,
-      "graph:Open graph view": true
+      "graph:Open graph view": true,
+      "obsidian-advanced-slides:Show Slide Preview": true,
+      "marp-slides:Show Slide Preview": true,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "dcec7026b2e5a3ec",
+  "active": "08d0cf1c430ad41a",
   "lastOpenFiles": [
-    "Phản vệ.md",
-    "Shock index.md",
-    "200 FILES/201 Image/image/Phản vệ-1715932418502.jpeg",
-    "200 FILES/201 Image/image/Phản vệ-1715932385352.jpeg",
-    "200 FILES/201 Image/image/Phản vệ-1715932353375.jpeg",
-    "Diphenhydramin.md",
-    "100 Reference notes/Drug/Methylprednisolone.md",
-    "THUỐC Ở CẤP CỨU.md",
-    "Vinsolon.md",
-    "Combivent.md",
-    "100 Reference notes/Drug/Dimedrol.md",
+    "Daily/240606.md",
+    "Toa về.md",
+    "MOC SỐC.md",
+    "Thuyên tắc phổi.md",
+    "200 FILES/201 Image/Thuyên tắc phổi-20240605223750572.webp",
+    "200 FILES/201 Image/Thuyên tắc phổi-20240605223732260.webp",
+    "200 FILES/201 Image/Thuyên tắc phổi-20240605223712868.webp",
+    "Daily/240605.md",
+    "100 Reference notes/ĐÀO TẠO BS MỚI.md",
+    "000 MOC/Năng lực chuyên môn CẤP CỨU.md",
+    "Daily/240604.md",
+    "TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình.md",
+    "100 Reference notes/MOC POCUS 101.md",
+    "200 FILES/201 Image/TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình-20240604205951029.webp",
+    "200 FILES/201 Image/TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình-20240604205950082.webp",
+    "200 FILES/201 Image/TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình-20240604210023447.webp",
+    "200 FILES/201 Image/TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình-20240604210552307.webp",
+    "200 FILES/201 Image/TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình-20240604210022581.webp",
+    "200 FILES/201 Image/TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình-20240604210009248.webp",
+    "200 FILES/201 Image/TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình-20240604205957982.webp",
+    "MOC Tiếp cận rối loạn ý thức.md",
     "000 MOC/50 DRUGS EVERY EMERGENCY PHYSICIAN SHOULD KNOW.md",
-    "The TRIO/000 Zettlekasten/UMP/BM CẤP CỨU/SỐC PHẢN VỆ.md",
-    "The TRIO/200 Files/image/Xu tri soc phan ve.png",
-    "Tiếp cận đau bụng cấp – chẩn đoán và xử trí viêm tụy cấp.md",
-    "s00134-023-07121-9.md",
-    "Viêm tuỵ cấp.md",
-    "đau bụng cấp.md",
-    "The TRIO/000 Zettlekasten/UMP/BM NGOẠI TQ/a Đề cương - NGOẠI Y6.md",
-    "ĐÀO TẠO BS MỚI.md",
-    "10.1056@NEJMcp1901117.md",
+    "MOC rối loạn điện giải – kiềm toan.md",
+    "The TRIO/Tăng K máu.md",
+    "100 Reference notes/hạ kali máu.md",
+    "Hạ Canxi máu.md",
+    "Daily/240601.md",
+    "100 Reference notes/Khí máu động mạch.md",
+    "100 Reference notes/Kĩ thuật lấy khí máu động mạch.md",
+    "100 Reference notes/Đọc Khí máu động mạch.md",
+    "Daily/240603.md",
+    "Hạ natri máu.md",
+    "Bão giáp - BS. Nhân.md",
+    "100 Reference notes/Tranexamic acid.md",
+    "Suy thượng thận cấp - BS. Nhân.md",
+    "100 Reference notes/Xuất huyết tiêu hoá.md",
+    "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Evaluation of the adult with chest pain in the emergency department - UpToDate.pdf",
+    "100 Reference notes/~syncthing~POCUS 101.md.tmp",
+    "Daily/~syncthing~240530.md.tmp",
+    "200 FILES/202 PDF/Adult medical emergencies/Critical care medicine/Hyperbaric oxygen therapy - UpToDate.pdf",
+    "200 FILES/203 Excalidraw",
+    "200 FILES/New folder",
+    "200 FILES/Các PP theo dõi huyết động CK1 2021.pdf",
+    "TIẾP CẬN CẤP CỨU ĐAU NGỰC.html",
+    "~syncthing~CVC.md.tmp",
     "200 FILES/Tiếp cận tăng huyết áp cấp cứu.pdf",
-    "Sinh lí bệnh THA ác tính.md",
-    "10.1161@HYPERTENSIONAHA.120.15026.md",
-    "TIẾP CẬN TĂNG HUYẾT ÁP Ở CẤP CỨU.md",
-    "200 FILES/201 Image/image/TIẾP CẬN TĂNG HUYẾT ÁP Ở CẤP CỨU-1715618193076.jpeg",
-    "XỬ TRÍ CẤP CỨU TĂNG HUYẾT ÁP - PGS. TS. Hồ Thượng Dũng.md",
-    "2023_esh_guidelines_for_the_management_of_arterial.271_0.md",
-    "200 FILES/201 Image/image/Sinh lí bệnh THA ác tính-1715875038816.jpeg",
-    "TĂNG HUYẾT ÁP MOC.md",
-    "Tiếp cận tăng huyết áp - HSCC.vn.md",
-    "The TRIO/000 Zettlekasten/UMP/BM NỘI/TIM MẠCH/TĂNG HUYẾT ÁP - BM NỘI.md",
-    "200 FILES/201 Image/image/10.1056@NEJMcp1901117-1715864308730.jpeg",
-    "200 FILES/201 Image/image/10.1161@HYPERTENSIONAHA.120.15026-1715861141737.jpeg",
-    "200 FILES/201 Image/image/2023_esh_guidelines_for_the_management_of_arterial.271_0-1715855372573.jpeg",
-    "200 FILES/201 Image/image/2023_esh_guidelines_for_the_management_of_arterial.271_0-1715855353788.jpeg",
-    "~syncthing~XỬ TRÍ CẤP CỨU TĂNG HUYẾT ÁP - PGS. TS. Hồ Thượng Dũng.md.tmp",
-    "400 Changelog/_changelog.md",
-    "400 Changelog",
-    "200 FILES/Managing acute mesenteric ischaemia.pdf",
-    "Daily",
-    "200 FILES/202 PDF/Adult medical emergencies/Fluid and electrolytes/Causes of hypokalemia in adults - UpToDate.pdf",
-    "200 FILES/Roi loan kali mau.pdf",
-    "200 FILES/202 PDF/Adult medical emergencies/Pancreatic disease/Hypertriglyceridemia-induced acute pancreatitis - UpToDate.pdf",
-    "200 FILES/202 PDF/Adult medical emergencies/Pancreatic disease/Management of acute pancreatitis - UpToDate.pdf",
-    "200 FILES/202 PDF/Adult medical emergencies/Pancreatic disease",
     "Khó thở cấp.canvas"
   ]
 }

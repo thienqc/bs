@@ -1,5 +1,4 @@
 [
-  "obsidian-paste-png-to-jpeg",
   "pdf-plus",
   "omnisearch",
   "text-extractor",
@@ -7,5 +6,11 @@
   "obsidian-text-format",
   "dataview",
   "obsidian-style-settings",
-  "obsidian-vault-changelog"
+  "obsidian-vault-changelog",
+  "obsidian-file-link",
+  "obsidian-advanced-slides",
+  "marp-slides",
+  "oz-clear-unused-images",
+  "image-converter",
+  "obsidian-linter"
 ]

@@ -6,5 +6,6 @@
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "MCL Wide Views"
-  ]
+  ],
+  "theme": "obsidian"
 }

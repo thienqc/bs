@@ -1,3 +1,4 @@
+# Tăng K máu
 TCLS thường xuất hiện muộn, khi kali máu tăng nhiều, đặc
 biệt khi tăng kali máu cấp tính.
 • Rối loạn tinh thần kinh: Ngứa, tê bì, dị cảm, đặc biệt vùng

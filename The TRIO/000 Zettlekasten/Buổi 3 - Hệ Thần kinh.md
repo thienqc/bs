@@ -4,7 +4,7 @@ Tổng là 21 câu
 15 CÂU
 ### [[YẾU LIỆT – RỐI LOẠN CẢM GIÁC]]
 ### [[CÁC HỘI CHỨNG LÂM SÀNG TỔN THƯƠNG TỦY SỐNG]]
-### [[ĐAU ĐẦU]]
+### [[100 Reference notes/đau đầu]]
 ### [[CHÓNG MẶT]]
 ### [[NGÔN NGỮ]]
 ### [[NHẬN THỨC]]

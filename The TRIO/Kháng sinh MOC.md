@@ -1,3 +1,19 @@
+# KHÁNG SINH MOC
+[[THUỐC Ở CẤP CỨU]]
+
+| Thuốc                        | Đơn vị |     |
+| ---------------------------- | ------ | --- |
+| [[Cefotaxon]] 1g             | Lọ     |     |
+| [[Ceftriaxon]] 2g            | Lọ     |     |
+| [[Inlezone]] 600mg/300ml     | Túi    |     |
+| [[Invanz]] 1g                | Lọ     |     |
+| [[Levofloxacin]] 500mg/20ml  | Ống    |     |
+| [[Moxifloxacin]] 400mg/250ml | Chai   |     |
+| [[Meronem]] 500mg            | Lọ     |     |
+| [[Tienam]] 500mg             | Lọ     |     |
+| [[Vancomycin]] 500,g         | Lọ     |     |
+
+
 ## VIÊM PHỔI
 ### Viêm phổi cộng đồng
 Không kháng thuốc = VK không điển hình + gram dương

@@ -15,7 +15,7 @@ HỆ HÔ HẤP CÓ 2 CHỨC NĂNG CƠ BẢN: DẪN KHÍ và TRAO ĐỔI KHÍ
 
 ### [[ĐAU HỌNG]]
 ### [[HO]]
-### [[KHÓ THỞ CẤP]]
+### [[100 Reference notes/Khó thở cấp]]
 ### [[VIÊM TIỂU PHẾ QUẢN]]
 ### [[VIÊM PHỔI]]
 ### [[X QUANG ở trẻ em]]

@@ -71,13 +71,14 @@
   "persistentTextHighlightsInEmbed": true,
   "persistentAnnotationHighlightsInEmbed": false,
   "highlightBacklinks": true,
+  "selectionBacklinkVisualizeStyle": "highlight",
   "dblclickEmbedToOpenLink": true,
   "highlightBacklinksPane": true,
   "highlightOnHoverBacklinkPane": true,
   "backlinkHoverColor": "",
   "colors": {
     "Yellow": "#ffd000",
-    "Red": "#EA5252",
+    "Red": "#ea5252",
     "Note": "#086ddd",
     "Important": "#bb61e5"
   },
@@ -88,6 +89,7 @@
   "colorPaletteInToolbar": true,
   "noColorButtonInColorPalette": true,
   "colorPaletteInEmbedToolbar": false,
+  "quietColorPaletteTooltip": false,
   "showStatusInToolbar": true,
   "highlightColorSpecifiedOnly": false,
   "doubleClickHighlightToOpenBacklink": true,
@@ -95,6 +97,7 @@
   "paneTypeForFirstMDLeaf": "right",
   "singleMDLeafInSidebar": true,
   "alwaysUseSidebar": true,
+  "ignoreExistingMarkdownTabIn": [],
   "defaultColorPaletteActionIndex": 4,
   "syncColorPaletteAction": true,
   "syncDefaultColorPaletteAction": false,
@@ -102,11 +105,12 @@
   "hoverPDFLinkToOpen": false,
   "ignoreHeightParamInPopoverPreview": true,
   "filterBacklinksByPageDefault": true,
+  "showBacklinkToPage": true,
   "enableHoverPDFInternalLink": true,
   "recordPDFInternalLinkHistory": true,
   "alwaysRecordHistory": true,
   "renderMarkdownInStickyNote": true,
-  "enalbeWriteHighlightToFile": false,
+  "enablePDFEdit": false,
   "author": "",
   "writeHighlightToFileOpacity": 0.2,
   "defaultWriteFileToggle": false,
@@ -120,10 +124,74 @@
   "pdfLinkColor": "#04a802",
   "pdfLinkBorder": false,
   "replaceContextMenu": true,
+  "showContextMenuOnMouseUpIf": "Mod",
+  "contextMenuConfig": [
+    {
+      "id": "action",
+      "visible": true
+    },
+    {
+      "id": "selection",
+      "visible": true
+    },
+    {
+      "id": "write-file",
+      "visible": true
+    },
+    {
+      "id": "annotation",
+      "visible": true
+    },
+    {
+      "id": "modify-annotation",
+      "visible": true
+    },
+    {
+      "id": "link",
+      "visible": true
+    },
+    {
+      "id": "text",
+      "visible": true
+    },
+    {
+      "id": "search",
+      "visible": true
+    },
+    {
+      "id": "speech",
+      "visible": true
+    },
+    {
+      "id": "page",
+      "visible": true
+    },
+    {
+      "id": "settings",
+      "visible": true
+    }
+  ],
+  "selectionProductMenuConfig": [
+    "color",
+    "copy-format",
+    "display"
+  ],
+  "writeFileProductMenuConfig": [
+    "color",
+    "copy-format",
+    "display"
+  ],
+  "annotationProductMenuConfig": [
+    "copy-format",
+    "display"
+  ],
+  "updateColorPaletteStateFromContextMenu": true,
   "executeBuiltinCommandForOutline": true,
   "executeBuiltinCommandForZoom": true,
   "executeFontSizeAdjusterCommand": true,
   "closeSidebarWithShowCommandIfExist": true,
+  "autoHidePDFSidebar": false,
+  "defaultSidebarView": 1,
   "outlineDrag": true,
   "outlineContextMenu": true,
   "outlineLinkDisplayTextFormat": "{{file.basename}}, {{text}}",
@@ -137,6 +205,7 @@
   "recordHistoryOnThumbnailClick": true,
   "popoverPreviewOnThumbnailHover": true,
   "annotationPopupDrag": true,
+  "showAnnotationPopupOnHover": true,
   "useCallout": true,
   "calloutType": "PDF",
   "calloutIcon": "highlighter",
@@ -147,7 +216,11 @@
   "clickOutlineItemWithModifierKey": true,
   "clickThumbnailWithModifierKey": true,
   "focusEditorAfterAutoPaste": true,
+  "clearSelectionAfterAutoPaste": true,
+  "respectCursorPositionWhenAutoPaste": true,
+  "autoCopy": false,
   "autoFocus": false,
+  "autoPaste": false,
   "autoFocusTarget": "last-active-and-open-then-last-paste",
   "autoPasteTarget": "last-active-and-open-then-last-paste",
   "openAutoFocusTargetIfNotOpened": true,
@@ -157,8 +230,13 @@
   "openAutoFocusTargetInEditingView": true,
   "executeCommandWhenTargetNotIdentified": true,
   "commandToExecuteWhenTargetNotIdentified": "pdf-plus:create-new-note",
-  "selectToCopyToggleRibbonIcon": true,
+  "autoPasteTargetDialogTimeoutSec": 20,
+  "autoCopyToggleRibbonIcon": true,
+  "autoCopyIconName": "highlighter",
   "autoFocusToggleRibbonIcon": true,
+  "autoFocusIconName": "zap",
+  "autoPasteToggleRibbonIcon": true,
+  "autoPasteIconName": "clipboard-paste",
   "viewSyncFollowPageNumber": true,
   "viewSyncPageDebounceInterval": 0.3,
   "openAfterExtractPages": true,
@@ -181,5 +259,41 @@
   "newFileNameFormat": "",
   "newFileTemplatePath": "",
   "newPDFLocation": "current",
-  "newPDFFolderPath": ""
+  "newPDFFolderPath": "",
+  "rectEmbedStaticImage": false,
+  "rectImageFormat": "file",
+  "rectImageExtension": "webp",
+  "zoomToFitRect": false,
+  "rectEmbedResolution": 100,
+  "includeColorWhenCopyingRectLink": true,
+  "backlinkIconSize": 50,
+  "showBacklinkIconForSelection": false,
+  "showBacklinkIconForAnnotation": false,
+  "showBacklinkIconForOffset": true,
+  "showBacklinkIconForRect": false,
+  "showBoundingRectForBacklinkedAnnot": false,
+  "hideReplyAnnotation": false,
+  "searchLinkHighlightAll": "true",
+  "searchLinkCaseSensitive": "true",
+  "searchLinkMatchDiacritics": "default",
+  "searchLinkEntireWord": "false",
+  "dontFitWidthWhenOpenPDFLink": true,
+  "preserveCurrentLeftOffsetWhenOpenPDFLink": false,
+  "defaultZoomValue": "page-width",
+  "scrollModeOnLoad": 0,
+  "spreadModeOnLoad": 0,
+  "hoverableDropdownMenuInToolbar": true,
+  "zoomLevelInputBoxInToolbar": true,
+  "popoverPreviewOnExternalLinkHover": true,
+  "actionOnCitationHover": "pdf-plus-bib-popover",
+  "enableBibInEmbed": false,
+  "enableBibInHoverPopover": false,
+  "enableBibInCanvas": true,
+  "removeWhitespaceBetweenCJChars": true,
+  "vim": false,
+  "vimScrollSize": 40,
+  "vimContinuousScrollSpeed": 1.2,
+  "vimSmoothScroll": true,
+  "vimHlsearch": true,
+  "vimIncsearch": true
 }

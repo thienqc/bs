@@ -1,26 +1,19 @@
-| Dạng sốc           | Tiền tải                      | Chức năng bơm  | Hậu tải                    | Tưới máu mô |
-|:---------------------|:--------------------------------|:----------------|:-----------------------------|:--------------|
-| Đánh giá lâm sàng | Áp lực động mạch phổi bít | Cung lượng tim | Kháng lực máu ngoại biên | ScvO2         |
-| Giảm thể tich      | - Ý 1<br><div>- Ý 2</div>     |                 |                              |               |
-| Sốc tim             |                                 |                 |                              |               |
-| Sốc phân bố        |                                 |                 |                              |               |  
+---
+cssclasses:
+  - wide-table
+---
 
-|Head 1|Head 2|Head 3|
-|--|--|--|
-|- item 1|- item 2|- item 3|\
-|- 1.1| - 1.2| - 3.1|
+# Đặc điểm các loại sốc
 
+| Dạng sốc       | Lâm sàng                     | Tiền tải<br>(Áp lực động mạch phổi bít) | Chức năng bơm<br>(Cung lượng tim) | Hậu tải<br>(Kháng lực máu ngoại biên) | Tưới máu mô<br>(SvO2) |
+| :--------------- | :--------------------------- | :---------------------------------------------- | :---------------------------------- | :------------------------------------------ | :---------------------- |
+| Giảm thể tích | Môi khô, chi lạnh, TM cổ xẹp | ==↓==                                           | ↓                                   | ↑                                           | ↓                       |
+| Sốc tim         | TM cổ nổi, ==ran phổi==      | ↑                                               | ==↓==                               | ↑                                           | ↓                       |
+| Sốc tắc nghẽn    | Chi lạnh, TM cổ nổi          | ↑                                               | ↓                                   | ↑                                           | ↓                       |
+| Sốc phân bố    | ==Chi ấm==                   | ↓ hay ↔                                         | ↑                                   | ↓                                           | ↔/↑                     |
 
-| Dạng sốc           | Tiền tải                      | Chức năng bơm  | Hậu tải                    | Tưới máu mô |
-|:---------------------|:--------------------------------|:----------------|:-----------------------------|:--------------|
-| Đánh giá lâm sàng | Áp lực động mạch phổi bít | Cung lượng tim | Kháng lực máu ngoại biên | SvO2          |
-| Giảm thể tích     | ↓                               | ↓               | ↑                            | ↓             |
-| Sốc tim             | ↑aaaa                           | ↓               | ↑                            | ↓             |
-| Sốc phân bố        | ↓ hay ↔                         | ↑               | ↓                            | ↑             |  
+> Trong trường hợp không thể xác định được nguyên nhân sốc thì nên ==xác dịnh đặc điểm huyết động== vì trong giai đoạn hồi sức ban đầu các biện pháp hỗ trợ huyết động không tùy thuộc vào nguyên nhân sốc.
 
-| Dạng sốc           | Tiền tải                      | Chức năng bơm  | Hậu tải                    | Tưới máu mô |
-|:---------------------|:--------------------------------|:----------------|:-----------------------------|:--------------|
-| Đánh giá lâm sàng | Áp lực động mạch phổi bít | Cung lượng tim | Kháng lực máu ngoại biên | ScvO2         |
-| Giảm thể tich      | - Ý 1<br><div>- Ý 2</div>     |                 |                              |               |
-| Sốc tim             |                                 |                 |                              |               |
-| Sốc phân bố        |                                 |                 |                              |               |  
+![[Đặc điểm các loại sốc-1716739357553.jpeg]]
+
+[[Tiep can soc.excalidraw]]

@@ -8,5 +8,5 @@ Anh nói là người ra đề là thầy cô lớn => Học quan điểm và c�
 ### [[TĂNG HUYẾT ÁP - BM NỘI]]
 ### [[BỆNH VAN TIM]]
 ### [[SUY TIM]]
-### [[ĐAU NGỰC]]
+### [[Tiếp cận ĐAU NGỰC ở cấp cứu]]
 ### [[ĐIỆN TÂM ĐỒ]]

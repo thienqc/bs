@@ -1,7 +1,7 @@
 # HỆ HÔ HẤP
 ## NỘI TỔNG QUÁT
 `17 câu`
-### [[HO RA MÁU]]
+### [[Ho ra máu]]
 ### [[THỞ RÍT]]
 ### [[TRÀN DỊCH MÀNG PHỔI]]
 ### [[BẤT THƯỜNG X QUANG NGỰC]]

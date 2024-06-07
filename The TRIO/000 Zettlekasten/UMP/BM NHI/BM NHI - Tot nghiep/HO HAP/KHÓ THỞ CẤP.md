@@ -1,3 +1,4 @@
+# KHÓ THỞ CẤP - NHI
 - Biểu hiện rối loạn nhịp thở/kiểu thở bất thường/Sử dụng cơ hô hấp hõ trợ/biểu hiện CLS
 - Nguyên nhân
 	- Tại đường dẫn khí:
@@ -32,8 +33,8 @@
 
 ### THỞ RÍT
 ![[Buổi 6 - Hệ Hô hấp (còn lại)-1687395315204.jpeg|444]]
-- Ngoài lồng ngjwc
-	- thif hít vào
+- Ngoài lồng ngực
+	- thì hít vào
 	- Nghe rõ bằng tai
 Sơ đồ tiếp cận thở rít:
 	- Vấn đề cấp cứu: không sốt (phản vệ, dị vật), sốt (viêm thanh thiệt, áp xe thành sau họng)

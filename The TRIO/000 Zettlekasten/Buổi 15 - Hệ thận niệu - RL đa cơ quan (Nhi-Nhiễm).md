@@ -16,7 +16,7 @@ Anh bảo sẽ mé mé với cái đề để sau bữa học tốt nghiệp kh�
 ## NHI - Cấp cứu
 `4 câu`
 ### [[TIẾP CẬN TRẺ NẶNG Ở CẤP CỨU]]
-### [[SỐC]]
+### [[SỐC (BM NHI)]]
 ### [[SUY HÔ HẤP]]
 ### [[Dị vật đường thở]]
 ## NHIỄM

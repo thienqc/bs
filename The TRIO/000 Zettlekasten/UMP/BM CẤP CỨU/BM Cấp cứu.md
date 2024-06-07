@@ -8,7 +8,7 @@
 
 
 [[NGƯNG HÔ HẤP – TUẦN HOÀN]]
-[[SỐC (cấp cứu)]]
+[[SỐC (BM cấp cứu)]]
 [[SỐC MẤT MÁU]]
 [[SỐC PHẢN VỆ]]
 [[NGỘ ĐỘC CẤP]]

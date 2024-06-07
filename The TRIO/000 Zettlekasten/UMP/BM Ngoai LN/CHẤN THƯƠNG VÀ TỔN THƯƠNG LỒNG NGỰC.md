@@ -1,3 +1,4 @@
+# CHẤN THƯƠNG VÀ TỔN THƯƠNG LỒNG NGỰC
 - Các triệu chứng lồng ngực:
 	- Đau ngực, khó thở, Da xanh, niêm nhợt, Shock,
 	- Vị trí vết thương hoặc chấn thương trên thành ngực => có xuyên thấu vào màng phổi hay không? => Vết thương thành ngực hay Vết thương thấu ngực

@@ -1,8 +1,12 @@
+# HC đáp ứng viêm toàn thân
+[SIRS, Sepsis, and Septic Shock Criteria (mdcalc.com)](https://www.mdcalc.com/calc/1096/sirs-sepsis-septic-shock-criteria)
 
-- nhiệt độ > 38, <36
-- nhịp tim >= 90
-- nhịp thở >= 20, PCO2 <32
-- WBC >12k, <4k
+
+2/4 tiêu chuẩn
+- nhiệt độ > 38℃ *or* <36℃
+- nhịp tim >= 90 l/ph
+- nhịp thở >= 20 l/ph *or* PCO2 <32 mmHg
+- WBC >12K/mm3 *or* <4K/mm3 *or* >10% band
 
 
 2/4 tiêu chuẩn

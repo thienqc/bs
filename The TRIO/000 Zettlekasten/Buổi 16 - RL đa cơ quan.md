@@ -2,7 +2,7 @@
 ## Y HỌC CẤP CỨU
 `8 câu`
 Mỗi chủ đề 1 câu – riêng đuối nước 2 câu
-### [[SỐC (cấp cứu)]]
+### [[SỐC (BM cấp cứu)]]
 ### [[SỐC MẤT MÁU]]
 ### [[SỐC PHẢN VỆ]]
 ### [[NGỘ ĐỘC CẤP]]
