@@ -12,6 +12,7 @@
 > - [[Dimedrol]] (ống 10mg/1ml) 2A TMC
 > - [[Methylprednisolone]] (Vinsolon) 40mg 3A TMC
 
+![[Phản vệ-20240607151022417.webp]]
 
 ![[Xu tri soc phan ve.png]]
 

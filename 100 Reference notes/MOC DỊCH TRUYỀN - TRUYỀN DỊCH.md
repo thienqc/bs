@@ -17,3 +17,5 @@ tags:
 [[KHUYẾN CÁO VỀ DỊCH TRUYỀN CHO BỆNH NHÂN HỒI SỨC của Hội Hồi sức Châu Âu]]
 
 [Liệu pháp truyền dịch (Sử dụng dịch truyền) ở bệnh nhân nặng - Fluid therapy - Bs Tín - 05/2024 - YouTube](https://www.youtube.com/watch?v=DO_QX-vJUHI&t=4226s)
+
+- [b] [2024 Edition Fluid Therapy Book - Dr. Pandya.pdf - Google Drive](https://drive.google.com/file/d/1T58Pg9Ri8tmkx-0UNWhqQ52yYO2rmScZ/view)

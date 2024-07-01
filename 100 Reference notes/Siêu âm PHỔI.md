@@ -81,6 +81,9 @@ aliases:
 	- Có thể liên quan đến màng phổi dày lên.
 	- 
 
+
+![[Siêu âm PHỔI-20240623105300335.webp]]
+
 ![](https://pocus101.b-cdn.net/wp-content/uploads/2020/03/Few-B-Lines.gif)
 *B-line rải rác*
 
@@ -108,6 +111,9 @@ aliases:
 - “B’ profile” has B-lines with impaired lung sliding
 - “A’ profile” has A-lines with impaired lung sliding
 - A/B profile has one lung with A-lines and the other with B-lines.
+
+
+
 
 ---
 [ARM | Free Full-Text | Lung Ultrasound in Critical Care and Emergency Medicine: Clinical Review (mdpi.com)](https://www.mdpi.com/2543-6031/91/3/17?s=09)

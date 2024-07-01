@@ -22,7 +22,7 @@
 ## Đánh giá ban đầu
 ![[Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698285780.jpeg]]
 ![[Tiếp cận BN cấp cứu -  BS. Khương Quốc Đại-1708698318251.jpeg]]
-### **Đánh giá sơ cấp theo nguyên tắc [[ABCDE]]**
+### **Đánh giá sơ cấp theo nguyên tắc [[tiếp cận ABCDE]]**
 Nhằm nhận định các tình trạng đang đe doạ tính mạng (nguy kịch)
 
 > [!INFO] A-B-C-D-E

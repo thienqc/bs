@@ -7,5 +7,6 @@
   "enabledCssSnippets": [
     "MCL Wide Views"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showViewHeader": true
 }

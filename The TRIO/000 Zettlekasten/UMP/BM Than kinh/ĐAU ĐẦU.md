@@ -34,7 +34,7 @@ Phòng ngừa khi có 3 cơn đau trở lên trong 1 tháng. Thuốc thì hay d�
 Rẻ tiền và dễ dùng là propranolol rồi mới đến amitriptyline.
 Uống thuốc ngừa migraine phải uống duy trì ít nhất là 3 tháng.
 Thuốc cắt cơn thì khi nào có cơn đau thì cắt.
-### Dau đầu dạng căng thẳng
+### Đau đầu dạng căng thẳng
 thường là mức độ nhẹ hơn không kèm theo các sợ
 ![[NỘI THẦN KINH-1687351281424.jpeg]]
 Điều trị: cắt cơn: para hoặc NSAIDS.

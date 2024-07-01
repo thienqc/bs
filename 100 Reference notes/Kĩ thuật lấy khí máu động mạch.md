@@ -1,4 +1,10 @@
 # Kĩ thuật lấy [[Khí máu động mạch]]
+
+![[Kĩ thuật lấy khí máu động mạch-20240622232806185.webp]]
+![[Kĩ thuật lấy khí máu động mạch-20240622232902528.webp]]
+
+
+
 ## Dụng cụ
 - Cái mâm
 - Thùng đựng vật sắc nhọn

@@ -38,7 +38,7 @@ Gợi ý nặng: **4 yếu tố**_
 
 
 
-RẮN (2 slide)
+[[RẮN CẮN]] (2 slide)
 - Đặc điểm nhận dạng con rắn gì??
 - RL đông máu -> rắn lục
 - Liệt ta chân -> chuông

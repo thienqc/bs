@@ -14,6 +14,10 @@
 | [[Vancomycin]] 500,g         | Lọ     |     |
 
 
+![[Toa về#Kháng sinh]]
+
+![[Kháng sinh MOC-20240620192020027.webp]]
+
 ## VIÊM PHỔI
 ### Viêm phổi cộng đồng
 Không kháng thuốc = VK không điển hình + gram dương

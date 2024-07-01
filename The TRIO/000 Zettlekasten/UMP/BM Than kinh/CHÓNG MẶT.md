@@ -27,6 +27,7 @@ Khi nói chóng mặt chủ yếu là đang nói đến rối loạn chức năn
 		- Nếu tổn thương ngoại biên, thường BN sẽ đi chung ù tai (tổn thương ốc tai) và giảm thính lực
 	- Thông thường, cường độ chóng mặt sẽ NHIỀU hơn, kèm buồn nôn, nôn ói NHIỀU hơn
 	- Rung giật nhãn cầu (Nystagmus) : theo chiều ngang
+
 ![[NỘI THẦN KINH-1687351466132.jpeg]]
 
 ![[NỘI THẦN KINH-1687351540864.jpeg]]

@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "2424da4e58a443cb",
+        "id": "d24a097205bc4d6d",
         "type": "tabs",
         "children": [
           {
-            "id": "38ecf5c610520109",
+            "id": "ca539595bd615c28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/240606.md",
+                "file": "Nguyên lí siêu âm.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "08d0cf1c430ad41a",
+            "id": "371ceb756a42eb9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Toa về.md",
+                "file": "100 Reference notes/MOC Đau ngực.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1164bcb55fd03282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HÔN MÊ TRÊN BỆNH NHÂN ĐÁI THÁO ĐƯỜNG - Nội tiết Y4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,6 +56,7 @@
       {
         "id": "b359fb8fec33c345",
         "type": "tabs",
+        "dimension": 69.5274831243973,
         "children": [
           {
             "id": "edb7e91c91f0e010",
@@ -78,13 +91,32 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "f51738bda1dc2d14",
+        "type": "tabs",
+        "dimension": 30.4725168756027,
+        "children": [
+          {
+            "id": "e27c7d007465a11d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 MOC/MOC.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "right": {
     "id": "7f751dc339b87c09",
@@ -100,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Toa về.md",
+                "file": "HÔN MÊ TRÊN BỆNH NHÂN ĐÁI THÁO ĐƯỜNG - Nội tiết Y4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Toa về.md"
+                "file": "HÔN MÊ TRÊN BỆNH NHÂN ĐÁI THÁO ĐƯỜNG - Nội tiết Y4.md"
               }
             }
           },
@@ -139,11 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Toa về.md"
+                "file": "HÔN MÊ TRÊN BỆNH NHÂN ĐÁI THÁO ĐƯỜNG - Nội tiết Y4.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -165,44 +198,47 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "08d0cf1c430ad41a",
+  "active": "1164bcb55fd03282",
   "lastOpenFiles": [
-    "Daily/240606.md",
-    "Toa về.md",
-    "MOC SỐC.md",
-    "Thuyên tắc phổi.md",
-    "200 FILES/201 Image/Thuyên tắc phổi-20240605223750572.webp",
-    "200 FILES/201 Image/Thuyên tắc phổi-20240605223732260.webp",
-    "200 FILES/201 Image/Thuyên tắc phổi-20240605223712868.webp",
-    "Daily/240605.md",
-    "100 Reference notes/ĐÀO TẠO BS MỚI.md",
-    "000 MOC/Năng lực chuyên môn CẤP CỨU.md",
-    "Daily/240604.md",
-    "TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình.md",
+    "Đợt cấp COPD.md",
+    "~syncthing~Đợt cấp COPD.md.tmp",
+    "100 Reference notes/Thuyên tắc phổi.md",
+    "200 FILES/201 Image/Thuyên tắc phổi-20240627224322154.webp",
+    "200 FILES/201 Image/Thuyên tắc phổi-20240627224305327.webp",
+    "100 Reference notes/MOC Đau ngực.md",
+    "Hội chứng ĐMC.md",
+    "200 FILES/201 Image/Hội chứng ĐMC-20240627224015814.webp",
+    "The TRIO/000 Zettlekasten/UMP/BM YHGĐ/Tot nghiep/RỐI LOẠN ĐƯỜNG HUYẾT.md",
+    "Daily/240627.md",
+    "Daily/240626.md",
+    "100 Reference notes/THUỐC Ở CẤP CỨU.md",
+    "The TRIO/000 Zettlekasten/UMP/BM Than kinh/~syncthing~ĐAU ĐẦU.md.tmp",
+    "RUSH exam.md",
+    "200 FILES/201 Image/RUSH exam-20240623111822441.webp",
     "100 Reference notes/MOC POCUS 101.md",
-    "200 FILES/201 Image/TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình-20240604205951029.webp",
-    "200 FILES/201 Image/TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình-20240604205950082.webp",
-    "200 FILES/201 Image/TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình-20240604210023447.webp",
-    "200 FILES/201 Image/TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình-20240604210552307.webp",
-    "200 FILES/201 Image/TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình-20240604210022581.webp",
-    "200 FILES/201 Image/TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình-20240604210009248.webp",
-    "200 FILES/201 Image/TIẾP CẬN BỆNH NHÂN RỐI LOẠN TRI GIÁC - BS. Trình-20240604205957982.webp",
-    "MOC Tiếp cận rối loạn ý thức.md",
-    "000 MOC/50 DRUGS EVERY EMERGENCY PHYSICIAN SHOULD KNOW.md",
-    "MOC rối loạn điện giải – kiềm toan.md",
-    "The TRIO/Tăng K máu.md",
-    "100 Reference notes/hạ kali máu.md",
-    "Hạ Canxi máu.md",
-    "Daily/240601.md",
-    "100 Reference notes/Khí máu động mạch.md",
+    "100 Reference notes/Siêu âm PHỔI.md",
+    "200 FILES/201 Image/Siêu âm PHỔI-20240623105300335.webp",
+    "Nguyên lí siêu âm.md",
+    "200 FILES/201 Image/Nguyên lí siêu âm-20240623103318393.webp",
+    "200 FILES/201 Image/Nguyên lí siêu âm-20240623103244163.webp",
+    "100 Reference notes/EtCO2.md",
+    "100 Reference notes/D-Dimer.md",
+    "Hồi sức nội khoa.md",
+    "200 FILES/201 Image/Hồi sức nội khoa-20240623095807257.webp",
+    "200 FILES/201 Image/Nguyên lí siêu âm-20240623002150875.webp",
+    "200 FILES/201 Image/Nguyên lí siêu âm-20240623001656947.webp",
     "100 Reference notes/Kĩ thuật lấy khí máu động mạch.md",
-    "100 Reference notes/Đọc Khí máu động mạch.md",
-    "Daily/240603.md",
-    "Hạ natri máu.md",
-    "Bão giáp - BS. Nhân.md",
-    "100 Reference notes/Tranexamic acid.md",
-    "Suy thượng thận cấp - BS. Nhân.md",
-    "100 Reference notes/Xuất huyết tiêu hoá.md",
+    "100 Reference notes/ADD-RS.md",
+    "100 Reference notes/Tiếp cận ĐAU NGỰC ở cấp cứu.md",
+    "Daily/240620.md",
+    "400 Changelog/_bookmark.md",
+    "The TRIO/Kháng sinh MOC.md",
+    "100 Reference notes/Toa về.md",
+    "000 MOC/MOC thiếu máu.md",
+    "Vận mạch trong sốc.md",
+    "ECG Checklist.md",
+    "The TRIO/ECG.md",
+    "The TRIO/000 Zettlekasten/UMP/BM Than kinh/~syncthing~CHÓNG MẶT.md.tmp",
     "200 FILES/202 PDF/Adult signs and symptoms/Acute and emergent/Evaluation of the adult with chest pain in the emergency department - UpToDate.pdf",
     "100 Reference notes/~syncthing~POCUS 101.md.tmp",
     "Daily/~syncthing~240530.md.tmp",
@@ -210,9 +246,6 @@
     "200 FILES/203 Excalidraw",
     "200 FILES/New folder",
     "200 FILES/Các PP theo dõi huyết động CK1 2021.pdf",
-    "TIẾP CẬN CẤP CỨU ĐAU NGỰC.html",
-    "~syncthing~CVC.md.tmp",
-    "200 FILES/Tiếp cận tăng huyết áp cấp cứu.pdf",
     "Khó thở cấp.canvas"
   ]
 }

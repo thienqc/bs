@@ -1,4 +1,6 @@
 # Ngộ độc cấp
+
+![[NGỘ ĐỘC CẤP-20240607103615334.webp]]
 ## Các giai đoạn
 - Tiền ngộ độc: Không triệu chứng => dựa vào bệnh sử
 - Ngộ độc: Có triệu chứng lâm sàng
@@ -14,14 +16,14 @@
 	- Thuốc giải độc chất đặc hiệu ([[antidote]])
 ## Các Hội chứng ngộ độc
 *5 hội chứng ngộ độc – triệu chứng – tác nhân ra cái nào*
-### **Hội chứng phó giao cảm**
+### Hội chứng phó giao cảm
 - Đồng tử co nhỏ, tăng tiết nước mắt, nhịp tim chậm, đau bụng, tiêu chảy, yếu cơ, run giật, …
-- **Phospho hữu cơ**, Carbamate, Muscarinic mushroom, [[Ngộ độc Nicotine|Nicotine]]
+- Phospho hữu cơ, Carbamate, Muscarinic mushroom, [[Ngộ độc Nicotine|Nicotine]]
 ### Hội chứng kháng phó giao cảm
 - Da niêm đỏ khô nóng, Đồng tử giãn, nhịp tim nhanh, giảm nhu động ruột, kích động/mê sảng/co giật/ảo giác,
 ### Hội chứng giống giao cảm
 - Vã mồ hôi, tăng nhu động ruột, nói nhiều, mất ngủ, kích động, đồng tử giãn,…
-- **Cocain, Amphetamine**, Methamphetamine, Caffeine, [[Ngộ độc Nicotine|Nicotine]]
+- Cocain, Amphetamine, Methamphetamine, Caffeine, [[Ngộ độc Nicotine|Nicotine]]
 ### Ngộ độc nhóm á phiện
 - Ức chế TKTW (Hôn mê, lơ mơ, ngủ gà), ĐỒNG TỬ NHỎ ĐẦU KIM, ức chế hô hấp
 - Heroin, [[Ngộ độc Morphine|Morphine]], Fentanyl, Meperidine, Codeine, Dextromethorphan…

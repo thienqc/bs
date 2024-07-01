@@ -21,3 +21,9 @@ Key
 	- Siêu âm ==FAST==
 	- Kiểm soát mất máu: băng ép có trong điểm và Garot cầm máu
 - _TH- ĐỊnh hướng lượng máu mất là bao nhiêu – Đề nghị CLS – Xử lý đầu tiên là gì?_
+
+
+3 nguyên tắc
+- ổn định huyết động
+- đông cầm máu: truyền máu, tranexamic acid
+- giải quyết ổ chảy máu

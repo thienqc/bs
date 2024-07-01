@@ -17,7 +17,7 @@ Hô# ĐÀO TẠO BÁC SĨ MỚI
 | [[MOC Tiếp cận rối loạn ý thức]]                                                                        | BS.giang     | Trình        | 4/6          |
 | [[Phản vệ MOC\|Chẩn đoán và xử trí phản vệ]]                                                            | Bs.chức      | Đã hướng dẫn |              |
 | [[Tăng đường huyết MOC\|Tiếp cận và xử trí biến chứng tăng đường huyết]]                                | BS.giang     | P.Anh        | 12/6         |
-| 🔴 [[MOC Tiếp cận và xử trí đau ngực]] - [[Tiếp cận chẩn đoán và xử trí nhồi máu cơ tim]]               | BS.giang     | ==Thiện==    | 14/6         |
+| 🔴 [[MOC Đau ngực]] - [[Tiếp cận chẩn đoán và xử trí nhồi máu cơ tim]]               | BS.giang     | ==Thiện==    | 14/6         |
 | Tiếp cận chẩn đoán và xử trí bóc tách động mạch chủ                                                     | BS.giang     | Em           | 19/6         |
 | Tiếp cận đau đầu – chẩn đoán và xử trí đột quỵ                                                          | BS.giang     | p.Anh        | 21/6         |
 | 🔴 [[MOC Tiếp cận đau bụng cấp – chẩn đoán và xử trí viêm tụy cấp]]                                     | BS.Đại       | ==Thiện==    | 26/6         |

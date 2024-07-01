@@ -12,5 +12,6 @@
   "marp-slides",
   "oz-clear-unused-images",
   "image-converter",
-  "obsidian-linter"
+  "obsidian-linter",
+  "tray"
 ]

@@ -6,6 +6,8 @@ aliases:
 
 [DM tờ HDSD thuốc. update 01.2024.xlsx - Google Trang tính](https://docs.google.com/spreadsheets/d/1po7pgqbfBlrac7rLCbhS-70D8sLi9Kz_/edit#gid=1364204491)
 
+[Khoa Dược - Tờ HDSD thuốc (google.com)](https://sites.google.com/view/khoaduocbvthuduc/t%E1%BB%9D-hdsd-thu%E1%BB%91c?authuser=0)
+
 - [[Mobic]]
 - [[Dimedrol]]
 - [[Pulmicort]]
@@ -43,7 +45,7 @@ aliases:
 | [[Calcium Gluconate\|Calcium Chloride]] 500mg/5ml | Ống      |
 | [[Dexamethasone]] phosphat 4mg                    | Ống      |
 | [[Digoxin]] 0.25mg                                | Lọ       |
-| [[Dobutamin]] 20ml 12.5mg/ml                      | Ống      |
+| [[Dobutamine]] 20ml 12.5mg/ml                     | Ống      |
 | [[Metoclopramide\|Elitan]] 10mg/2ml               | Ống      |
 | [[Fenidel]] 20mg/ml (piroxicam)                   | Ống      |
 | [[Genmapaxane]] 600IU/0.6ml ([[Enaxaparin]])      | Bơm tiêm |
@@ -71,7 +73,7 @@ aliases:
 | [[Combivent]] 2.5mg+0.5mg                         | Ống      |
 | [[Methylprednisolone]] 40mg                       | Lọ       |
 | [[Vinterlin]] 0.5mg/ml                            | Ống      |
-| [[Vinzix]] 20mg/2ml                               | Ống      |
+| [[Furosemide]] 20mg/2ml                           | Ống      |
 | [[Cefotaxon]] 1g                                  | Lọ       |
 | [[Ceftriaxon]] 2g                                 | Lọ       |
 | [[Inlezone]] 600mg/300ml                          | Túi      |

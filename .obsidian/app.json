@@ -6,5 +6,6 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
   "propertiesInDocument": "hidden",
-  "mobileQuickRibbonItem": "omnisearch:Omnisearch"
+  "mobileQuickRibbonItem": "omnisearch:Omnisearch",
+  "showRibbon": true
 }

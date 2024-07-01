@@ -18,6 +18,6 @@
 | [[Warfarin]]              | [[Vitamin K1]]                              |
 | [[Opiate]]                | [[Naloxone]]                                |
 | [[Phospho hữu cơ]]        | [[Atropine]], [[Pralidoxim]]                |
-| [[Rắn cắn]]               | [[Huyết thanh kháng nọc rắn]]               |
+| [[RẮN CẮN]]               | [[Huyết thanh kháng nọc rắn]]               |
 | [[Methanol]]              | [[Ethanol]], [[4-methylpyrazole]]           |
 

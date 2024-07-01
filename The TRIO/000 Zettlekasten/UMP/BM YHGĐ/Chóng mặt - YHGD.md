@@ -14,6 +14,7 @@
 3. Rung giật nhãn cầu nghiêm trọng
 4. Rung giật nhãn cầu trung ương
 5. Bắt thường về di chuyển đồng tử
+
 ![[Pasted image 20230401132945.png]]
 ## Nguyên nhân
 ![[Pasted image 20230401132957.png]]
@@ -83,7 +84,8 @@ Nguyên nhân :
 ![[Pasted image 20230401134109.png]]
 ### Điều trị chóng mặt
 1. Thuốc ức chế chóng mặt
-2. Cải thiện chức năng tiền điền
+2. Cải thiện chức năng tiền đình
+
 ![[Pasted image 20230401134150.png]]
 **Anticholinergics**
 - Homatropine
